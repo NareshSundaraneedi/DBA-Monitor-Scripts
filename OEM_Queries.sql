@@ -1,5 +1,6 @@
 More details :  https://docs.oracle.com/cd/E63000_01/EMVWS/examples.htm#CIHCJJID
 
+Addedline for tetsing 
 
 --Find Availiable Target Types in OEM
 select distinct target_type,type_display_name from mgmt_targets order by 1;
